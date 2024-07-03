@@ -1,5 +1,5 @@
 # Nillion Python Starter <a href="https://github.com/NillionNetwork/nillion-python-starter/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a> 
-
+ 
 This is a python starter repo for building on the Nillion Network. Complete environment setup, then run the examples:
 
 - To run multi party examples, go to the [multi party compute](examples_and_tutorials/core_concept_multi_party_compute) folder.
