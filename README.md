@@ -50,7 +50,7 @@ bash compile_programs.sh
 
 This generates a `programs-compiled` folder containing the compiled programs.
 
-## Store a Compiled Program
+## Store a Compiled Program        
 
 Store a compiled program in the network with this script:
 
